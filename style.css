@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    color: black;
+}
+
+#time {
+    font-size: 2rem;
+
+}
+
+h1 {
+    margin-bottom: 3rem;
+    font-size: xx-large;
+    font-weight: bolder;
+
+
+}
+
+h2 {
+    margin-bottom: 3rem;
+    opacity: 0.6;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+a {
+    color: blue;
+    font-size: large;
+    font-weight: 200;
+}
+
+
+
+@media (max-width:700px) {
+    time {
+        font-size: 6rem;
+    }
+}
