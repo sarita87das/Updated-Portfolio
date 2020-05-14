@@ -13,6 +13,8 @@ body {
     text-align: center;
     height: 100vh;
     color: black;
+    background-image: linear-gradient(-90deg, rgba(67, 145, 165, 0.685), rgba(165, 106, 67, 0.76));
+    
 }
 
 #time {
@@ -35,12 +37,26 @@ h2 {
     font-weight: bolder;
 }
 
+table {
+    margin-bottom: 3rem;
+    opacity: 0.6;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
 a {
     color: blue;
     font-size: large;
     font-weight: 200;
 }
 
+
+li {
+    color: blue;
+    font-size: large;
+    font-weight: 200;
+}
 
 
 @media (max-width:700px) {

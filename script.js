@@ -92,7 +92,7 @@ function getFocus() {
     }
 }
 
-// set Name
+// set focus
 function setFocus(e) {
     if (e.type === 'keypress') {
         // make sure enter is pressed
