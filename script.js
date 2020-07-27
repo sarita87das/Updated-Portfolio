@@ -115,4 +115,4 @@ focus.addEventListener('blur', setFocus);
 showTime();
 console.log(showTime);
 setBgGreet();
-getName();
+// getName();
