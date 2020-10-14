@@ -1,2 +1,13 @@
-# Updated-Portfolio
-latest updates on responsive portfolio with one extra landing page coded with bit of ES 5 syntax.
+# UPDATED PORTFOLIO
+latest updates on responsive portfolio with one extra landing page coded with bit of ES 5 and ES 6 syntax.
+
+# FEATURED 
+* LIST OF ALL THE PROJECTS INDIVIDUAL AND THE GROUP.*
+* BRIEF DETAILED PROJECTS WITH THE LIVE DEPLOYEMENT LINKS*
+* OTHER DETAILS SUCH AS BIO, CONTACT, SKILLSET, RESUME, GITHUB, AND LINKED IN
+  
+# TECHNOLOGIES USED
+HTML, CSS, BOOTSTRAP, JAVASCRIPT, JQUERY, NODE, EXPRESS, APIs, MYSQL, MONGODB, REACT
+
+# STACK
+# MERN STACK (FRONT END AND BACK END)
